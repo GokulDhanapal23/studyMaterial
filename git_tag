@@ -1,4 +1,4 @@
-GIT TAG CREATION CMDS
+GIT TAG CREATION Commands
 ---------------------
 git tag tagName                          -- creating a tag for the branch you checkout
 git tag -a tagName -m "message"          -- create a annotated tag with message
